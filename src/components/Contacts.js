@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import Contact from './Contact.js';
-import iconMale from '../assets/male.png';
-import iconFemale from '../assets/female.png';
-import iconNA from '../assets/NA.png';
+import iconMale from './assets/male.png';
+import iconFemale from './assets/female.png';
+import iconNA from './assets/NA.png';
 class Contacts extends Component {
 
     state = {
